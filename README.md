@@ -22,7 +22,7 @@ While the company relies on Options API, I wanted to stay up-to-date, which is w
 - Users can view event details
 <br><br>
 ## Live Demo
-Try it [here]()
+Try it [here](https://anthonyvngo.github.io/EDC-Week-Clone/)
 <br><br>
 ## Preview
 ![edc-week-clone preview](https://i.imgur.com/0j8LbFZ.jpg)
