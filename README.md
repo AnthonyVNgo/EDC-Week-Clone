@@ -1,29 +1,28 @@
-# vue-tailwind-router4
+# EDC-Week-Clone
+A clone of EDC Week's webpage built with Vue 3 and Tailwind CSS. 
+<br><br>
+## Why I Built This
+When I interviewed for Aptive Education, the CTO shared that the company uses a completely different tech stack from what I learned at my bootcamp (Vue instead of React). I wanted to get a better understanding of Vue's ecosystem, so I decided to combine my interest of music festivals and EDM with Vue fundamentals, along with some styling from Tailwind CSS, to create this clone project. 
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+While the company relies on Options API, I wanted to stay up-to-date, which is why I've included both Options API along with Composition API and the use of script setup. 
+<br><br>
+## Technologies Used
+- Vue.js (Options API, Composition API & script setup)
+- Vite
+- Vue Router
+- Tailwind CSS
+- HTML5
+- CSS3
+<br><br>
+## Features
+- Users can view all EDC week events
+- Users can view events by date
+- Users can view events by artist
+- Users can view events by venue
+- Users can view event details
+<br><br>
+## Live Demo
+Try it [here]()
+<br><br>
+## Preview
+![edc-week-clone preview](https://i.imgur.com/0j8LbFZ.jpg)

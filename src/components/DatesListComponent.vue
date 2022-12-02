@@ -13,15 +13,14 @@
       :to="`/events/date/may-${item.date}`">
       <h3
         :class="{ active: item.date.includes(date) }"
-        class="h-fit text-[23px] font-extrabold uppercase tracking-normal sm:m-0 sm:text-center md:p-0">
-        <span
-          class="sm:block sm:text-[18px] sm:leading-[.8] sm:tracking-tight lg:text-[20px]"
-          >{{ item.day }}</span
-        >
-        <span
-          class="px-[6px] sm:block sm:leading-[.8] lg:text-3xl lg:leading-[.8]"
-          >{{ item.month }}</span
-        >
+        class="h-fit text-[23px] font-extrabold uppercase tracking-normal sm:m-0 sm:text-center md:p-0"
+      >
+        <span class="sm:block sm:text-[18px] sm:leading-[.8] sm:tracking-tight lg:text-[20px]">
+          {{ item.day }}
+        </span>
+        <span class="px-[6px] sm:block sm:leading-[.8] lg:text-3xl lg:leading-[.8]">
+          {{ item.month }}
+        </span>
         <span
           class="sm:block sm:text-[2.8rem] sm:font-black sm:leading-[.8] lg:text-[50px]"
           :class="{
